@@ -1,0 +1,82 @@
+Introduction
+
+Our CTF platform can be found at cyberlab.xxxxxx.com. Simply register your hacker handle and email to get started.
+
+IMPORTANT: Sign up as "Student" and provide " Cyber Bootcamp" as your school. 
+
+🛑 !! Go ahead and register an account on Cyberlab before continuing below !! 🛑
+Problems
+
+Use the Foundations VM to complete these problems. You must complete them sequentially.
+
+    0 Tutorial
+        Welcome to CTF
+        Hints
+        Teamwork
+    00 Linux Setup: After you sign up and complete the first 3 tutorial problems in 0 Tutorial, enter the following flag in the Linux Setup Series to get started: FS{g00d_luck_future_h4ck3rs!!}
+        Start VM
+        Run Files
+        Test Internet
+        Backup Your VM
+        Change Password (note that the problem text may not reference the updated VM. The default username:password for the Mint VM is fullstack:fullstack)
+    01 Linux Core
+        A Winning Argument
+        Always Shop Local
+        Hidden in Plain Sight
+        Special
+        The Space Between
+        Trash Inspector
+        What a Game, Man
+        Traveling Flag
+        What a Game, Man 2 - (Bonus Problem)
+    02 Linux Search
+        Always Shop Local 2
+        Blast From the Past
+        Here Kitty Kitty
+        Lost and Found
+        What is Existence?
+        Where Am I?
+        Wild Thing
+    03 Linux Filters
+        Hello World
+        Rock it to You
+        Coin Toss
+        Rockyou is Better
+    04 Linux Tools
+        Super Cool File
+        All Your Base
+        Ball of Yarn
+        The Best Type of Prism
+        Flag Compactor
+    05 Linux Users
+        Baseball
+        Neo
+        Trinity
+        Super Agent
+        Agent No More
+        The Resistance
+    Linux Permissions: If you encounter and Error during signature verification, run the following command in your terminal as root:
+
+    wget -q -O - https://archive.kali.org/archive-key.asc | apt-key add
+
+        Expanding Powers
+        Expanding Powers 2
+        Expanding Powers 3 (Bonus Problem)
+        Set Which ID? (Bonus Problem)
+    Linux Environment
+        Global Warming
+        Mistakes Were Made
+        Positive Aptitude (Bonus Problem)
+        Enter the Matrix
+        Very Ethical 1
+        Background Noise
+        Ringing in My Ears
+        Very Ethical 2 (Bonus Problem)
+        Broken Clock
+        Quiet For Good (Bonus Problem)
+
+
+
+
+
+ 
